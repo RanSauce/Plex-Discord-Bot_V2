@@ -1,13 +1,13 @@
 {
 	"name": "plexbot",
-	"version": "2.3.3",
-	"description": "a plex bot for discord",
+	"version": "1.0.0",
+	"description": "Discord Plex Bot",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"start": "node index.js"
 	},
-	"author": "danxfisher, irbyk",
+	"author": "danxfisher, irbyk, RanSauce",
 	"license": "ISC",
 	"dependencies": {
 		"@discordjs/opus": "^0.5.3",
