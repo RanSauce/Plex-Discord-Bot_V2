@@ -1,15 +1,15 @@
 module.exports = {
-  'hostname'    : '',
-  'port'        : '',
+  'hostname'    : '192.168.68.102',
+  'port'        : '32400',
   'https'       : false,
-  'token'       : '',
-  'managedUser' : '',
+  'token'       : 'BBz1FXmsN1mARycQnLCC',
+  'managedUser' : 'RanSauce',
   'options'     : {
-    'identifier': '',
-    'product'   : '',
-    'version'   : '',
-    'deviceName': '',
-    'platform'  : '',
-    'device'    : ''
+    'identifier': 'Server',
+    'product'   : 'Plex_Server',
+    'version'   : '1',
+    'deviceName': 'RanPlex',
+    'platform'  : 'Discord',
+    'device'    : 'Discord'
   }
 };
